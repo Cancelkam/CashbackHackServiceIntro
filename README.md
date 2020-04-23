@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/opl1v5scup8yd8ew?svg=true)](https://ci.appveyor.com/project/Cancelkam/cashbackhackserviceintro)
